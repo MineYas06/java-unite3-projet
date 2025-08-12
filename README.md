@@ -5,12 +5,12 @@ Sabrina
 ## Description
  - Ce projet lit un fichier CSV d’étudiants et de notes, calcule la moyenne de chaque étudiant, classe les étudiants par moyenne décroissante, puis sauvegarde les résultats dans un nouveau CSV.
 ## Structure du projet
-Yasmine.txt : Dossier personnel de Yasmine
-Sabrina.txt : Dossier personnel de Sabrina
-contributions.txt : Répartition des tâches
-README.md : Ce fichier de description du projet
-notes.csv : Fichier CSV d’entrée (données brutes)
-resultats.csv : Fichier CSV de sortie (généré)
-Main.java : Point d’entrée (orchestration : lire → calculer → trier → sauvegarder)
-Etudiant.java : Modèle contenant id, nom, notes, moyenne
-GestionNotes.java : Lecture/écriture CSV + calculs (parse tolérant)
+- Yasmine.txt : Dossier personnel de Yasmine. 
+- Sabrina.txt : Dossier personnel de Sabrina.
+- contributions.txt : Répartition des tâches.
+- README.md : Ce fichier de description du projet.
+- notes.csv : Fichier CSV d’entrée (données brutes).
+- resultats.csv : Fichier CSV de sortie (généré).
+- Main.java : lire → calculer → trier → sauvegarder.
+- Etudiant.java : Modèle contenant id, nom, notes, moyenne.
+- GestionNotes.java : Lecture/écriture CSV + calculs (parse tolérant).
