@@ -1,1 +1,3 @@
-jai cree la class jdjkshdjk
+- creation de la class etudiant et gestion de Main 
+- gestion de github
+
