@@ -1,1 +1,3 @@
+- ouverture et gestion Github
+- creation de class GestionNotes 
 
